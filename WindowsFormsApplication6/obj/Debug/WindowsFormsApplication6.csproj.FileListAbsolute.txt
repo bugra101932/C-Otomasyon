@@ -1,0 +1,43 @@
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+c:\users\blgbu\documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\blgbu\Documents\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\blgbu\Documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\blgbu\Documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Gecis.resources
+C:\Users\blgbu\Documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.yukseklik.resources
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Gecis.resources
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.yukseklik.resources
+C:\Users\blgbu\Desktop\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\blgbu\Desktop\bitirme hersey\bitirme\proje\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\blgbu\Desktop\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\blgbu\Desktop\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojAssemblyReference.cache
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Gecis.resources
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.yukseklik.resources
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.cache
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\blgbu\Desktop\ders\bitirme hersey\bitirme\proje\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
